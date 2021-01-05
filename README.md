@@ -1,0 +1,2 @@
+# Penetration-Testing-Report-MaskedDJ
+A 4 member final project that simulated a real-world Pentest where it was required to scan, exploit and suggest potential remediations. The project was for 1 month and it was completed under 3 weeks by the group and under 2 days the complete technical report was completed including network design and executive summary highlighting necessary information and steps to hiding masked DJ identity information.
